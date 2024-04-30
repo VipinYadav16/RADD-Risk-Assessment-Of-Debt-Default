@@ -1,0 +1,30 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "jar\\arpack_combined_all-0.1.jar",
+        "jar\\bounce-0.18.jar",
+        "jar\\core-1.1.jar",
+        "jar\\java-cup-11b-2015.03.26.jar",
+        "jar\\java-cup-11b-runtime-2015.03.26.jar",
+        "jar\\jniloader-1.1.jar",
+        "jar\\mtj-1.0.4.jar",
+        "jar\\native_ref-java-1.1.jar",
+        "jar\\native_system-java-1.1.jar",
+        "jar\\netlib-java-1.1.jar",
+        "jar\\netlib-native_ref-linux-armhf-1.1-natives.jar",
+        "jar\\netlib-native_ref-linux-i686-1.1-natives.jar",
+        "jar\\netlib-native_ref-linux-x86_64-1.1-natives.jar",
+        "jar\\netlib-native_ref-osx-x86_64-1.1-natives.jar",
+        "jar\\netlib-native_ref-win-i686-1.1-natives.jar",
+        "jar\\netlib-native_ref-win-x86_64-1.1-natives.jar",
+        "jar\\netlib-native_system-linux-armhf-1.1-natives.jar",
+        "jar\\netlib-native_system-linux-i686-1.1-natives.jar",
+        "jar\\netlib-native_system-linux-x86_64-1.1-natives.jar",
+        "jar\\netlib-native_system-osx-x86_64-1.1-natives.jar",
+        "jar\\netlib-native_system-win-i686-1.1-natives.jar",
+        "jar\\netlib-native_system-win-x86_64-1.1-natives.jar",
+        "jar\\weka-stable-3.8.0.jar"
+    ]
+}

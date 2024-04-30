@@ -1,0 +1,11 @@
+@relation TestDataSet
+
+@ATTRIBUTE credit_lines_outstanding REAL
+@ATTRIBUTE payment_to_incomeratio REAL
+@ATTRIBUTE debt_to_incomeratio REAL
+@ATTRIBUTE years_employed REAL
+@ATTRIBUTE fico_score REAL
+@ATTRIBUTE default NUMERIC
+
+@DATA
+4,0.045859165,0.214757382,7,683,?
